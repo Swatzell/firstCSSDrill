@@ -19,3 +19,15 @@ a:hover{
     border-radius: 1rem;
     width: 30em;
 }
+#box1 {
+    background-color: brown;
+}
+#box2 {
+    background-color: burlywood;
+}
+#box3 {
+    background-color: chocolate;
+}
+#box4 {
+    background-color: crimson;
+}
