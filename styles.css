@@ -13,23 +13,34 @@ a:hover{
   font-weight: bold;
 }
 .boxes {
-    display:block;
+    
     margin: 5rem;
     padding: 5rem;
     border: 5px solid rgb(255, 89, 0);
     border-radius: 1rem;
-    width: 30em;
+    width: 30rem;
     
 }
 #box1 {
     background-color: brown;
 }
 #box2 {
+
     background-color: burlywood;
-}
+       
+    }
 #box3 {
     background-color: chocolate;
 }
 #box4 {
     background-color: crimson;
+}
+.images {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: darkkhaki;
+    position: relative;
+    top:50px;
+    right: 50px;
 }
