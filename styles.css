@@ -77,3 +77,6 @@ ul {
 #wars {
     color: lightseagreen;
 }
+.listborders {
+   border: 2px solid black;
+}
