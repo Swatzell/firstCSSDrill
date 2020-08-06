@@ -47,3 +47,9 @@ a:hover{
 h1 {
 color: darkolivegreen;
 }
+.original { color: darkorange;
+
+}
+.additional {
+    color: darkslateblue;
+}
